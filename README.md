@@ -27,3 +27,25 @@ Tuukka
 
 
 Tekijä: Tuukka
+
+
+
+##Kuvat ja lisenssit 
+
+##Profiilikuva 
+
+   - Lähde: Unsplash 
+
+   - Tekijä: En tiedä 
+
+   -Lisenssi: Unsplash License 
+
+#Bannerikuva 
+
+   - Lähde: Unsplash 
+
+   - Tekijä: en tiedä 
+
+   -Lisenssi: Unsplash License 
+
+ 
