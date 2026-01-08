@@ -49,3 +49,7 @@ Tekijä: Tuukka
    -Lisenssi: Unsplash License 
 
  
+##julkaisu
+
+Projektin verkkoversio:
+https://tuke222.github.io/portfolio-projekti/
